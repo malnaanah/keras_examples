@@ -1,2 +1,2 @@
-# keras_samples
+# keras_examples
 3 examples on Keras
